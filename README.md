@@ -1,5 +1,5 @@
 # Richard Valentino Parulian Silalahi (RVPS)
-> Vibe Coder | Software Developer
+> Vibe Coder | Fullstack Developer | System Analist
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Information+Systems+Student+at+UNTAD;Building+Public+Information+Systems;Laravel,+Node.js,+and+React+Developer;Mobile+Development+with+Dart" alt="Typing Status" />
